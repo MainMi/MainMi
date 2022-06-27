@@ -2,7 +2,7 @@
 ### 🚀 About Me
 
 
-Hi , I'm Mikita Gavrilenko, a Full-Stack Developer
+Hi , I'm Mikita Gavrilenko, a Full-Stack Developer from Ukraine.
 
 
 🛠 **languages and tools:**  
