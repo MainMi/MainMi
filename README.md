@@ -4,7 +4,7 @@
 
 Hi , I'm Mikita Gavrilenko, a Full-Stack Developer from Ukraine.
 
-On this site I will tell about myself and my resume: [mainmi.github.io/mywebsitecv](mainmi.github.io/mywebsitecv)
+On this site I will tell about myself and my resume: mainmi.github.io/mywebsitecv
 
 
 🛠 **languages and tools:**  
