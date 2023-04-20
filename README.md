@@ -2,9 +2,11 @@
 ### 🚀 About Me
 
 
-Hi , I'm Mikita Gavrilenko, a Full-Stack Developer from Ukraine.
+I am Mykyta Havrylenko, a highly motivated and experienced developer with a focus on full-stack web development. Originally from Ukraine, I have always been passionate about expanding my skills and knowledge in various technologies, including Node.js, JavaScript, TypeScript, HTML, CSS, SASS, Express, MongoDB, and MySQL. I have also demonstrated proficiency in using Bootstrap for responsive design and am currently learning React through a Udemy course.
 
-On this site I will tell about myself and my resume: [https://mainmi.github.io/MyWedsiteAndCV/](https://mainmi.github.io/MyWedsiteAndCV/)
+In addition, I have completed courses from Okten School as a Full-stack Developer and Hebron Rocket School as a Back-end Developer, further enhancing my expertise and experience in the field of web development.
+
+With a strong foundation in algorithms, data structures, and the basic principles of code organization, I have been involved in multiple projects that showcase my ability to effectively collaborate with team members and create innovative digital products
 
 
 🛠 **languages and tools:**  
