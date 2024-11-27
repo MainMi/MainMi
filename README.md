@@ -2,11 +2,14 @@
 ### 🚀 About Me
 
 
-I am Mykyta Havrylenko, a highly motivated and experienced developer with a focus on full-stack web development. Originally from Ukraine, I have always been passionate about expanding my skills and knowledge in various technologies, including Node.js, JavaScript, TypeScript, HTML, CSS, SASS, Express, MongoDB, and MySQL. I have also demonstrated proficiency in using Bootstrap for responsive design and am currently learning React through a Udemy course.
+I am a Software Engineer currently pursuing a degree in Software Engineering at Kyiv Polytechnic Institute with a GPA of 8.5/10. Alongside my studies, I am actively expanding my expertise in software development by diving deeper into algorithms, data structures, and advanced programming concepts.
 
-In addition, I have completed courses from Okten School as a Full-stack Developer and Hebron Rocket School as a Back-end Developer, further enhancing my expertise and experience in the field of web development.
+### 📒 My Journey
+My love for coding began at 14, when I started learning Python on a mobile phone. Coming from a large family, I didn’t have access to a computer, so I adapted and learned with the tools I had. Despite the limitations of mobile IDEs, I developed a program for Dungeons & Dragons calculations. However, I realized that compiling and sharing these programs wasn’t practical on a phone. That’s when I decided to build a website instead.
 
-With a strong foundation in algorithms, data structures, and the basic principles of code organization, I have been involved in multiple projects that showcase my ability to effectively collaborate with team members and create innovative digital products
+After one to two months of trial and error, I successfully created my first functional website. That experience ignited my passion for web development. Soon, a senior full-stack developer who also taught courses at Okten School noticed my determination and gave me access to their professional courses. Completing those courses solidified my decision to pursue full-stack development as a career.
+
+Since then, I’ve worked on real-world projects, refined my skills, and continue to learn and grow every day. Whether it’s building websites, optimizing business solutions, or experimenting with game mechanics, I’m always excited to take on new challenges.
 
 
 🛠 **languages and tools:**  
